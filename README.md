@@ -145,5 +145,6 @@ __Output__:
 
 __Result__:
 
-![WhatsApp Image 2025-11-23 at 07 32 25_35986ccd](https://github.com/user-attachments/assets/69a34228-1264-4cdd-b19c-d743fabd44c4)
+<img width="1280" height="501" alt="image" src="https://github.com/user-attachments/assets/ad7d7d3e-960a-4bc3-9f60-151649f1b6fe" />
+
 
