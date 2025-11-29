@@ -136,8 +136,8 @@ plt.show()
 
 __Output__:
 
-<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/7d67a706-3969-439e-9d97-03da20e885dd" />
-<img width="1022" height="1280" alt="image" src="https://github.com/user-attachments/assets/69971cf0-4b78-47a0-a7d3-bd29d408889b" />
+<img width="584" height="752" alt="Screenshot 2025-11-29 121849" src="https://github.com/user-attachments/assets/7b06fd37-e76b-40df-81d2-7540de612b1f" />
+
 <img width="847" height="677" alt="Screenshot 2025-11-29 121718" src="https://github.com/user-attachments/assets/790a3615-61c3-4ad2-91de-82bba077dc97" />
 
 
